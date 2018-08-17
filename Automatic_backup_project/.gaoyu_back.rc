@@ -1,7 +1,5 @@
 back_path=/home/gaoyu/luogu:/home/gaoyu/practice    
 
-a=要备份的路径（可多个）这是一个注释
 dest_dir=/data    
-b=备份文件或目录的目标文件　这是一个注释
+
 log=/var/log/back.log  
-c=日志文件　这是一个注释
